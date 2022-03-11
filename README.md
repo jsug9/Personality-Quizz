@@ -18,7 +18,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jsug9/Cacique-App/issues).
+Feel free to check the [issues page](https://github.com/jsug9/Personality-Quizz/issues).
 
 ## Show your support
 
